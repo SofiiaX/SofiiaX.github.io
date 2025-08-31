@@ -1,0 +1,18 @@
+title: Sofia Math Portfolio
+description: My achievements, research, and projects
+baseurl: ""
+url: "https://<твій_нікнейм>.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about.md
+  - title: Achievements
+    url: /achievements.md
+  - title: Research
+    url: /research.md
+  - title: Projects
+    url: /projects.md
